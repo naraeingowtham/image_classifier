@@ -7,10 +7,10 @@ This is an image classifier to tell the difference between pictures of cats and 
 ---
 
 ### Tools I Used
-I built this in a Google Colab notebook using Python. The main libraries I used were:
-- **TensorFlow & Keras:** To build and train the model.
-- **Matplotlib & Seaborn:** To create the graphs to visualize the results.
-- **Transfer Learning:** I used the pre-trained MobileNetV2 model as a base to speed up the learning process.
+I built this in a Google Colab notebook using Python. The libraries I used were:
+- TensorFlow & Keras:
+- Matplotlib & Seaborn:
+- Transfer Learning:
 
 ---
 
@@ -22,11 +22,9 @@ The entire project is in the `Image_Classifier.ipynb` file.
 
 ---
 
-### My Results
-The training went really well. The accuracy went up and the error rate (loss) went down which is what I wanted to see.
+###  Results
 
 ![Training Performance](training_graph.png)
-
-I also created a confusion matrix to check the final performance on test images. The model was very accurate.
+Confusion matrix to check the final performance on test images.
 
 ![Confusion Matrix](confusion_matrix.png)
