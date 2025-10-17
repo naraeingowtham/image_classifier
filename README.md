@@ -3,8 +3,7 @@
 ### By: Naraein Gowtham G A
 
 ### Project Goal
-For this recruitment task, I built an image classifier to tell the difference between pictures of cats and dogs. I was interested in how AI works and this seemed like a great way to learn the basics.
-
+This is an image classifier to tell the difference between pictures of cats and dogs.
 ---
 
 ### Tools I Used
