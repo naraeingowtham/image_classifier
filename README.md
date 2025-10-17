@@ -3,7 +3,7 @@
 ### By: Naraein Gowtham G A
 
 ### Project Goal
-For this recruitment task, I built an image classifier to tell the difference between pictures of cats and dogs. I was interested in how AI works, and this seemed like a great way to learn the basics.
+For this recruitment task, I built an image classifier to tell the difference between pictures of cats and dogs. I was interested in how AI works and this seemed like a great way to learn the basics.
 
 ---
 
@@ -24,10 +24,10 @@ The entire project is in the `Image_Classifier.ipynb` file.
 ---
 
 ### My Results
-The training went really well. The accuracy went up and the error rate (loss) went down, which is what I wanted to see.
+The training went really well. The accuracy went up and the error rate (loss) went down which is what I wanted to see.
 
 ![Training Performance](training_graph.png)
 
-I also created a confusion matrix to check the final performance on test images it had never seen before. The model was very accurate!
+I also created a confusion matrix to check the final performance on test images. The model was very accurate.
 
 ![Confusion Matrix](confusion_matrix.png)
